@@ -1,0 +1,8 @@
+只有以下几种部件:
+w_body_skin		皮肤
+w_body_hair		头发
+w_body_face		脸
+w_equip_hair		头盔
+w_equip_top		上衣
+w_equip_low		下衣
+w_equip_weapon		武器

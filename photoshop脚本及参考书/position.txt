@@ -1,0 +1,3 @@
+w_equip_weapon_i:593,-314.422222222222 cm,240,152          
+w_equip_weapon_i_old:616,-301.422222222222 cm,113,68          
+w_equip_weapon_i_del:-23,-13 cm
